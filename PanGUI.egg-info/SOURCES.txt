@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+PanGUI/GUI.ui
+PanGUI/__init__.py
+PanGUI/main.py
+PanGUI/test.py
+PanGUI/test2.py
+PanGUI.egg-info/PKG-INFO
+PanGUI.egg-info/SOURCES.txt
+PanGUI.egg-info/dependency_links.txt
+PanGUI.egg-info/top_level.txt
